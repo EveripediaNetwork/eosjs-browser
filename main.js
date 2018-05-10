@@ -1,0 +1,1 @@
+window.Eos = require('eosjs');
