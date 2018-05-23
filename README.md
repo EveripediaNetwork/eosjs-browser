@@ -15,7 +15,7 @@ To use, copy the `eosjs-browser.js` into your web frontend's `js` folder and ins
     </script>
 ```
 
-The current version of eosjs is `10.0.0` with support for Dawn 3.0. We will update this as newer versions come out. 
+The current version of eosjs is `12.0.0` with support for Dawn 4.1. We will update this as newer versions come out. 
 
 See the eosjs [Github](https://github.com/EOSIO/eosjs) for tutorials. 
 
